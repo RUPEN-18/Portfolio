@@ -20,10 +20,4 @@ Open `http://localhost:8000`.
 6. No build command is needed.
 7. Deploy.
 
-## Notes
 
-- The ChatGPT owner/editor toolbar and `chatgpt.site` references were removed.
-- Profile/game images are local assets.
-- The CV is stored locally in `assets/`.
-- GitHub project links are preserved.
-- Basic mobile navigation, project filters, copy-email, reveal animations, and motion controls are restored with standalone JavaScript.
